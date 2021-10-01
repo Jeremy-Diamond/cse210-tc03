@@ -1,7 +1,7 @@
 def say_hello():
 
     import diamond
-   
+    import mieres
 
 def main():
     print("Welcome to our collaborative program.")
