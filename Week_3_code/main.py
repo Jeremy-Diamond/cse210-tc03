@@ -13,6 +13,7 @@ def say_hello():
     print()
     Finlayson_greetings()
     print()
+    bangay_greetings()    
 
 
 def main():
