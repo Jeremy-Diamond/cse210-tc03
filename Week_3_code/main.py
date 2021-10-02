@@ -2,7 +2,7 @@ from diamond import diamond_greetings
 from garache import garache_greetings
 from mieres import mieres_greetings
 from finlayson import Finlayson_greetings
-from finlayson import bangay_greetings
+from bangay import bangay_greetings
 
 def say_hello():
 
