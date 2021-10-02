@@ -12,7 +12,7 @@ def say_hello():
     print()
     mieres_greetings()
     print()
-    finlayson_greetings()
+    Finlayson_greetings()
     print()
     bangay_greetings()    
 
